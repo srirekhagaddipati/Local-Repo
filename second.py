@@ -1,4 +1,8 @@
-print("again a file")
-print("added 1 more")
+
+<<<<<<< HEAD
+
 
 print("ok")
+=======
+print("twist")
+>>>>>>> feature1
